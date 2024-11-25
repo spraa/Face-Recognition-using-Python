@@ -53,9 +53,7 @@ FaceRecognition
 │   ├── person2.jpg
 ├── test_images/                # Directory for test images
 │   ├── group_photo.jpg
-├── requirements.txt            # Python dependencies
-├── README.md                   # Documentation for the project
 ├── Images
 │   ├── circuit_diagram.png     # Circuit diagram image
 │   ├── project_demo.png        # Demo image of your project
-└── LICENSE                     # License file (optional, e.g., MIT License)
+
